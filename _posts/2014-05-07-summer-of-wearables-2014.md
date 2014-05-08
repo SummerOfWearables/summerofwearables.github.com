@@ -2,8 +2,8 @@
 layout: post
 title: "Summer of Wearables 2014"
 description: "Ideas and plans"
-category: 
-tags: [wearables]
+category: planning
+tags: []
 ---
 {% include JB/setup %}
 
