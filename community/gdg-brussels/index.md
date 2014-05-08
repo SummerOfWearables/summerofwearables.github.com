@@ -9,6 +9,6 @@ description: "Google Technology developer community"
 
 We meet usually once a month and focus on Android.
 
-[Page at developers.google.com](bit.ly/BruGTUG)
+[Page at developers.google.com](http://bit.ly/BruGTUG)
 
-[Website](brussels-gtug.org)
+[Website](http://brussels-gtug.org)

@@ -31,17 +31,17 @@ rake page name="community/your_city_or_group_name"
 
 The directory structure is then
 ```
-    .
-    |-- community
-        |-- your_city_or_group_name
-            |-- index.html
+.
+|-- community
+    |-- your_city_or_group_name
+        |-- index.html
 ```
 
 The page should contain 
   * the name of the community and 
   * a link to a G+ page, community or to a website. 
 
-See e.g. [GDG Brussels](/community/brussels)
+See e.g. [GDG Brussels](/community/gdg-brussels)
 
 Commit your page and send the pull request!
 
