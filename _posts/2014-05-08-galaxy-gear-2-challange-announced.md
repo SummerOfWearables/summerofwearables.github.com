@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Galaxy Gear 2 Challange announced"
+title: "Galaxy Gear 2 Challenge announced"
 description: "Deadline mid July"
 category: challenge 
 tags: [galaxy gear, smartwatch]
