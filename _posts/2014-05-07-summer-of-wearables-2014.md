@@ -14,7 +14,7 @@ wearables during the summer of 2014.
 
 Google announced Android Wear OS on [18 March 2014](http://android-developers.blogspot.be/2014/03/android-wear-developer-preview.html), 
 Intel announced the [Edison developer board](http://www.intel.com/content/www/us/en/do-it-yourself/edison.html), ideas around 
-devices that user want to wear on their body, on their wrist, on their head. During this summer, we want to develope on and for these devices. 
+devices that user want to wear on their body, on their wrist, on their head. During this summer, we want to develop on and for these devices. 
 
 
 ## Call for participation
